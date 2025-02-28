@@ -1,4 +1,5 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=header" width="100%">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00ffcc,100:0099ff&height=110&section=header" width="100%">
+
 
 ### Hello everyone 👋 I'm a Backend Developer specialized in Java & Spring Boot
 
@@ -64,4 +65,4 @@ I like to create reliable and understandable backend systems. I follow the princ
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
 </p>
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00ffcc,100:0099ff&height=110&section=footer" width="100%">
