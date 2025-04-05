@@ -48,8 +48,8 @@ I like to create reliable and understandable backend systems. I follow the princ
 ### 📊 GitHub Stats
 
 <div align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=fantrexx&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" alt="fantrexx's Stats" height="150" />
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=fantrexx&theme=tokyonight&hide_border=true" alt="fantrexx's Streak" height="150" />
+    <img src="https://github-readme-stats.vercel.app/api?username=BogdanTerletsky&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" alt="BogdanTerletsky Stats" height="150" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=BogdanTerletsky&theme=tokyonight&hide_border=true" alt="BogdanTerletsky Streak" height="150" />
 <!--     <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fantrexx&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" /> -->
 </div>
 
