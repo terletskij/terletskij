@@ -8,7 +8,7 @@
 
 I like to create reliable and understandable backend systems. I follow the principles of clean code, using proven approaches in architecture and want to improve code quality. I am always looking for ways to make decisions more efficient and productive.
 
-- 🚀 Currently working on [Financial Tracker](https://github.com/fantrexx/microservice-financial-tracker) microservices using a microservices architecture to build a scalable distributed system
+- 🚀 Currently working on [Financial Tracker](https://github.com/terletskij/microservice-financial-tracker) microservices using a microservices architecture to build a scalable distributed system
 - 📚 Learning Kubernetes and advanced cloud deployment 
 
 ### 💻 Tech Stack
@@ -48,9 +48,9 @@ I like to create reliable and understandable backend systems. I follow the princ
 ### 📊 GitHub Stats
 
 <div align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=BogdanTerletsky&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" alt="BogdanTerletsky Stats" height="150" />
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=BogdanTerletsky&theme=tokyonight&hide_border=true" alt="BogdanTerletsky Streak" height="150" />
-<!--     <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fantrexx&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" /> -->
+    <img src="https://github-readme-stats.vercel.app/api?username=terletskij&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" alt="Terletskij Stats" height="150" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=terletskij&theme=tokyonight&hide_border=true" alt="Terletskij Streak" height="150" />
+<!--     <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=terletskij&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" /> -->
 </div>
 
 ---
