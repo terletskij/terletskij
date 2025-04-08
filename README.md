@@ -8,8 +8,7 @@
 
 I like to create reliable and understandable backend systems. I follow the principles of clean code, using proven approaches in architecture and want to improve code quality. I am always looking for ways to make decisions more efficient and productive.
 
-- 🚀 Currently working on [Financial Tracker](https://github.com/terletskij/microservice-financial-tracker) microservices using a microservices architecture to build a scalable distributed system
-- 📚 Learning Kubernetes and advanced cloud deployment 
+- 🚀 Currently working on [Financial Tracker](https://github.com/terletskij/microservice-financial-tracker) microservices using a microservices architecture to build a scalable distributed system 
 
 ### 💻 Tech Stack
 
