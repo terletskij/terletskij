@@ -43,14 +43,14 @@ I like to create reliable and understandable backend systems. I follow the princ
 
 
 
----
+<!-- ---
 ### 📊 GitHub Stats
 
 <div align="center">
     <img src="https://github-readme-stats.vercel.app/api?username=terletskij&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" alt="Terletskij Stats" height="150" />
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=terletskij&theme=tokyonight&hide_border=true" alt="Terletskij Streak" height="150" />
-<!--     <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=terletskij&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" /> -->
-</div>
+<!--     <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=terletskij&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" /> 
+</div> -->
 
 ---
 
