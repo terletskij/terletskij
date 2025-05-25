@@ -6,9 +6,9 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/bogdan-terletsky)
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:mailmkh3@gmail.com)
 
-I like to create reliable and understandable backend systems. I follow the principles of clean code, using proven approaches in architecture and want to improve code quality. I am always looking for ways to make decisions more efficient and productive.
+I'm a developer who enjoys building clean and scalable systems. Recently, I developed a microservices-based financial tracking app using Spring Boot, Spring Security, Docker, and PostgreSQL. I care about code readability and architecture and I’m constantly learning to improve both.
 
-- 🚀 Currently working on [Financial Tracker](https://github.com/terletskij/microservice-financial-tracker) microservices using a microservices architecture to build a scalable distributed system 
+- 🚀 Currently working on [Financial Tracker](https://github.com/terletskij/microservice-financial-tracker) using Spring Boot and microservices architecture.
 
 ### 💻 Tech Stack
 
