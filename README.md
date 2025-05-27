@@ -6,11 +6,9 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/bogdan-terletsky)
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:mailmkh3@gmail.com)
 
-I'm a developer who enjoys building clean and scalable systems. Recently, I developed a microservices-based financial tracking app using Spring Boot, Spring Security, Docker, and PostgreSQL. I care about code readability and architecture and I’m constantly learning to improve both.
+I'm a developer who enjoys building clean and scalable systems. Recently I developed a microservices-based financial tracking app using Spring Boot, Spring Security, Docker, and PostgreSQL. I care about code readability and architecture and I’m constantly learning to improve both.
 
-- 🚀 Currently working on [Financial Tracker](https://github.com/terletskij/microservice-financial-tracker) using Spring Boot and microservices architecture.
-
-### 💻 Tech Stack
+## 💻 Tech Stack
 
 <div style="display: flex; flex-wrap: wrap; gap: 10px; align-items: center;">
   
@@ -32,16 +30,19 @@ I'm a developer who enjoys building clean and scalable systems. Recently, I deve
   <img src="https://img.shields.io/badge/OpenAPI-6BA539?style=for-the-badge&logo=openapiinitiative&logoColor=white" alt="OpenAPI" />
   <img src="https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=white" alt="Swagger" />
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
   <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" alt="Ubuntu" />
     
   #### 🎨 Other Tools (basic)
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
   <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" alt="Angular" />
   <img src="https://img.shields.io/badge/SCSS-CC6699?style=for-the-badge&logo=sass&logoColor=white" alt="SCSS" />
-  <img src="https://img.shields.io/badge/Elasticsearch-005571?style=for-the-badge&logo=elasticsearch&logoColor=white" alt="Elasticsearch" />
 </div>
 
+## 📂 Projects
+
+### 🔹 [Financial Tracker](https://github.com/terletskij/microservice-financial-tracker) 
+> A **microservices-based** financial tracking app for managing personal expenses and incomes.
+> Features user authentication, transaction tracking and a modular architecture.
 
 
 <!-- ---
@@ -61,7 +62,7 @@ I'm a developer who enjoys building clean and scalable systems. Recently, I deve
   <a href="https://linkedin.com/in/bogdan-terletsky" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="mailto:mailmk3@gmail.com">
+  <a href="mailto:mailmkh3@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
 </p>
