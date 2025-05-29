@@ -43,7 +43,7 @@ I'm a developer who enjoys building clean and scalable systems. Recently I devel
 ### 🔹 Financial Tracker
 > [Repository](https://github.com/terletskij/microservice-financial-tracker) <br>
 > A **microservices-based** financial tracking app for managing personal expenses and incomes. <br>
-> Features user authentication, transaction tracking and a modular architecture.
+> Features user authentication, finance tracking and a microservice architecture.
 
 
 <!-- ---
