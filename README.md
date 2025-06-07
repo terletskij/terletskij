@@ -45,6 +45,10 @@ I'm a developer who enjoys building clean and scalable systems. Recently I devel
 > A **microservices-based** financial tracking app for managing personal expenses and incomes. <br>
 > Features user authentication, finance tracking and a microservice architecture.
 
+### 🔹 Library Management
+> [Repository](https://github.com/terletskij/library-management) <br>
+> **REST** service for library management using Spring Boot, JPA, Spring Validator, PostgreSQL, JUnit and Mockito. <br>
+> Features CRUD for Books, Members, Borrows, API documentation, unit tests.
 
 <!-- ---
 ### 📊 GitHub Stats
