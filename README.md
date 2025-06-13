@@ -6,7 +6,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/bogdan-terletsky)
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:mailmkh3@gmail.com)
 
-I'm a developer who enjoys building clean and scalable systems. Recently I developed a microservices-based financial tracking app using Spring Boot, Spring Security, Docker, and PostgreSQL. I care about code readability and architecture and I’m constantly learning to improve both.
+I'm a developer who enjoys building clean and scalable systems. I care about code readability and architecture and I’m constantly learning to improve both.
 
 ## 💻 Tech Stack
 
