@@ -50,7 +50,7 @@ I'm a developer who enjoys building clean and scalable systems. I care about cod
 > **REST** service for library management using Spring Boot, JPA, Spring Validator, PostgreSQL, JUnit and Mockito. <br>
 > Features CRUD for Books, Members, Borrows, API documentation, unit tests.
 
-<!-- ---
+---
 ### 📊 GitHub Stats
 
 <div align="center">
